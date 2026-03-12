@@ -42,4 +42,3 @@ A aplicação permite a criação e manipulação de objetos tridimensionais por
 - Linguagem C++
 - Framework Qt
 - Qt Creator
-- Git e GitHub
